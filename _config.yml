@@ -1,0 +1,5 @@
+remote theme: pages-themes/architect@v0.2.0
+plugins:
+- iekvll-remote-theme 
+title: Yu boyan lab11
+description: cooooool
